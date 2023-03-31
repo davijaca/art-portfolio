@@ -1,7 +1,7 @@
 {
   "name": "andy-portfolio",
   "version": "2.0.0",
-  "homepage": "https://davijaca.github.io/art-portfolio/home",
+  "homepage": "https://davijaca.github.io/art-portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
