@@ -8,8 +8,8 @@ import { info } from '../assets/info/Info';
 const links = [
   {
     name: 'Home',
-    to: '/home',
-    active: 'home',
+    to: '/art-portfolio/',
+    active: 'art-portfolio',
   },
   {
     name: 'About Me',
@@ -19,8 +19,8 @@ const links = [
   {
     name: info.initials,
     type: 'initials',
-    to: '/home',
-    active: 'home',
+    to: '/art-portfolio/',
+    active: 'art-portfolio',
   },
   {
     name: 'Portfolio',
