@@ -18,7 +18,7 @@ function PortfolioBlock(props) {
     },
     {
       image: Guizmo,
-      caption: "Guizmurai - A drawing of my brother in homage of our japanese ancestry"
+      caption: "Guizmurai"
     },
     {
       image: Aioria,
@@ -34,24 +34,23 @@ function PortfolioBlock(props) {
     },
     {
       image: Dust,
-      caption: "Dust"
+      caption: "Dust (Sketch)"
     },
     {
       image: Hand,
-      caption: "The Hand"
+      caption: "The Hand (Sketch)"
     },
   ];
 
   const captionStyle = {
-    fontSize: '1em',
+    fontSize: '5em',
     fontWeight: 'bold',
-    textShadow: '2px 2px 4px #000100'
+    textShadow: '5px 5px 8px #000100'
   }
   const slideNumberStyle = {
-    fontSize: '20px',
+    fontSize: '40px',
     fontWeight: 'bold',
   }
-
 
   return (
     <div className="App">
@@ -76,7 +75,7 @@ function PortfolioBlock(props) {
           </div>
           <Carousel
             data={data}
-            time={8000}
+            time={3000}
             width="850px"
             height="750px"
             captionStyle={captionStyle}
@@ -84,14 +83,13 @@ function PortfolioBlock(props) {
             slideNumber={true}
             slideNumberStyle={slideNumberStyle}
             captionPosition="bottom"
-            automatic={true}
             dots={true}
             pauseIconColor="white"
             pauseIconSize="40px"
             slideBackgroundColor="rgba(0,0,0,0)"
             slideImageFit="contain"
             thumbnails={false}
-            thumbnailWidth="100px"
+            thumbnailWidth="1px"
             style={{
               textAlign: "center",
               maxWidth: "850px",
