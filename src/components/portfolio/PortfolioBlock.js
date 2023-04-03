@@ -67,7 +67,7 @@ function PortfolioBlock(props) {
             <div className="container">
                   
                   <ul className="sidebar">
-                  <li><span>DOWNLOAD FILES</span></li>
+                  <span>DOWNLOAD PRESENTATION FILES</span>
                    <li><a href={require("../../assets/files/Mustang.pdf")} download="Mustang.pdf">Mustang</a></li>
                    <li><a href={require("../../assets/files/Guizmurai.pdf")} download="Guizmurai.pdf">Guizmurai</a></li>
                    <li><a href={require("../../assets/files/Aioria.pdf")} download="Aioria.pdf">Aioria</a></li>

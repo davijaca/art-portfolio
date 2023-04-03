@@ -23,17 +23,17 @@ export const info = {
   ],
   socials: [
     {
-      link: 'https://Davi0126.com/resume.pdf', // this should be https://yourname.com/resume.pdf once you've deployed
+      link: 'https://davijaca.github.io/', // this should be https://yourname.com/resume.pdf once you've deployed
       icon: 'fa fa-user-circle',
       label: 'resume',
     },
     {
-      link: 'https://github.com/Davi0126fx',
+      link: 'https://github.com/davijaca',
       icon: 'fa fa-github',
       label: 'github',
     },
     {
-      link: 'https://www.linkedin.com/in/Davi-Davi-/',
+      link: 'https://www.linkedin.com/in/davi-bentim/',
       icon: 'fa fa-linkedin',
       label: 'linkedin',
     },
