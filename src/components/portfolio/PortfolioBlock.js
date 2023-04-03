@@ -7,6 +7,8 @@ import Mustang from '../../assets/img/Mustang.bmp';
 import Dust from '../../assets/img/Dust.bmp';
 import SelfPortrait from '../../assets/img/Self.jpg';
 import Hand from '../../assets/img/TheHand.bmp';
+import MeineLiebe from '../../assets/img/MeineLiebe.bmp';
+import Dragon from '../../assets/img/Dragon.bmp';
 import './sidebar.css';
 
 
@@ -40,6 +42,14 @@ function PortfolioBlock(props) {
       image: Hand,
       caption: "The Hand (Sketch)"
     },
+    {
+      image: MeineLiebe,
+      caption: "Meine Liebe (Sketch)"
+    },
+    {
+      image: Dragon,
+      caption: "Dragon (Sketch)"
+    },
   ];
 
   const captionStyle = {
@@ -65,8 +75,6 @@ function PortfolioBlock(props) {
                    <li><a href={require("../../assets/files/SelfPortrait.pdf")} download="Self-Portrait.pdf">Self Portrait</a></li>
                    <li><a href={require("../../assets/files/Dust.pdf")} download="Dust.pdf">Dust</a></li>
                    <li><a href={require("../../assets/files/TheHand.pdf")} download="The-Hand.pdf">The Hand</a></li>
-                   
-                   
                   </ul>
                   
                   <div className="content">
