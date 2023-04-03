@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/art-portfolio/static/css/main.390b98bb.css",
-    "main.js": "/art-portfolio/static/js/main.587b7af2.js",
+    "main.js": "/art-portfolio/static/js/main.ec4bd4ba.js",
     "static/media/MeineLiebe.bmp": "/art-portfolio/static/media/MeineLiebe.ff11b4d39da0a5a5b436.bmp",
     "static/media/Guizmurai.bmp": "/art-portfolio/static/media/Guizmurai.8d60a6457a9640e51435.bmp",
+    "static/media/Dragon.bmp": "/art-portfolio/static/media/Dragon.4f7c0e7d137e1f24ae36.bmp",
     "static/media/Dust.bmp": "/art-portfolio/static/media/Dust.cee2f2df8d7c9cf3f3ac.bmp",
     "static/media/Mustang.bmp": "/art-portfolio/static/media/Mustang.84d59d979070a4269334.bmp",
     "static/media/TheHand.bmp": "/art-portfolio/static/media/TheHand.b57a01ce233491cf11ca.bmp",
@@ -20,10 +21,10 @@
     "static/media/self.jpeg": "/art-portfolio/static/media/self.b7e85505b7414523e913.jpeg",
     "index.html": "/art-portfolio/index.html",
     "main.390b98bb.css.map": "/art-portfolio/static/css/main.390b98bb.css.map",
-    "main.587b7af2.js.map": "/art-portfolio/static/js/main.587b7af2.js.map"
+    "main.ec4bd4ba.js.map": "/art-portfolio/static/js/main.ec4bd4ba.js.map"
   },
   "entrypoints": [
     "static/css/main.390b98bb.css",
-    "static/js/main.587b7af2.js"
+    "static/js/main.ec4bd4ba.js"
   ]
 }
