@@ -56,7 +56,7 @@ export default function BaseLayout() {
           <Routes>
             <Route exact path={'/art-portfolio/'} element={<Home darkMode={darkMode} />} />
             <Route exact path={'/about'} element={<About />} />
-            <Route exact path={'/portfolio'} element={<Portfolio />} />
+            <Route exact path={'/a-portfolio'} element={<Portfolio />} />
           </Routes>
         </Grid>
         <Grid item>
