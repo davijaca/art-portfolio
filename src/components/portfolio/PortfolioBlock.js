@@ -76,10 +76,18 @@ function PortfolioBlock(props) {
                    <li><a href={require("../../assets/files/Dust.pdf")} download="Dust.pdf">Dust</a></li>
                    <li><a href={require("../../assets/files/TheHand.pdf")} download="The-Hand.pdf">The Hand</a></li>
                   </ul>
-                  
-                  <div className="content">
-                     
-                  </div>
+          </div>
+          <div class="navbar">
+          <ul>
+                  <span>DOWNLOAD PRESENTATION FILES</span>
+                   <li><a href={require("../../assets/files/Mustang.pdf")} download="Mustang.pdf">Mustang</a></li>
+                   <li><a href={require("../../assets/files/Guizmurai.pdf")} download="Guizmurai.pdf">Guizmurai</a></li>
+                   <li><a href={require("../../assets/files/Aioria.pdf")} download="Aioria.pdf">Aioria</a></li>
+                   <li><a href={require("../../assets/files/Maximus.pdf")} download="Maximus.pdf">Maximus</a></li>
+                   <li><a href={require("../../assets/files/SelfPortrait.pdf")} download="Self-Portrait.pdf">Self Portrait</a></li>
+                   <li><a href={require("../../assets/files/Dust.pdf")} download="Dust.pdf">Dust</a></li>
+                   <li><a href={require("../../assets/files/TheHand.pdf")} download="The-Hand.pdf">The Hand</a></li>
+                  </ul>
           </div>
           <Carousel
             data={data}

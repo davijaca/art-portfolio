@@ -3,6 +3,10 @@
     margin:0;
 }
 
+.navbar{
+    display: none;
+}
+
 .container{
     height:100vh;
     position:fixed;
@@ -59,3 +63,33 @@
     
     padding-left:75px;
 }
+
+@media only screen and (max-width: 1404px) {
+    .container{ 
+        display: NONE;
+
+    }
+    .navbar {
+        background-color: transparent;
+        overflow: hidden;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        display: block;
+      }
+      
+      /* Style the links inside the navigation bar */
+      .navbar a {
+        float: left;
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+
+      .navbar span:nth-child(1){
+        font-size:20px;
+        padding-left: 5%;
+      }
+  }
