@@ -8,7 +8,10 @@ import Dust from '../../assets/img/Dust.bmp';
 import SelfPortrait from '../../assets/img/Self.jpg';
 import Hand from '../../assets/img/TheHand.bmp';
 import MeineLiebe from '../../assets/img/MeineLiebe.bmp';
-import Dragon from '../../assets/img/Dragon.bmp';
+import Moonlight from '../../assets/img/Moonlight.bmp';
+import Baphomet from '../../assets/img/Baphomet.bmp';
+import GameConcept from '../../assets/img/GameConcept.jpg';
+
 import './sidebar.css';
 
 
@@ -21,6 +24,14 @@ function PortfolioBlock(props) {
     {
       image: Guizmo,
       caption: "Guizmurai"
+    },
+    {
+      image: Moonlight,
+      caption: "Moonlight"
+    },
+    {
+      image: Baphomet,
+      caption: "Baphomet"
     },
     {
       image: Aioria,
@@ -47,8 +58,7 @@ function PortfolioBlock(props) {
       caption: "Meine Liebe (Sketch)"
     },
     {
-      image: Dragon,
-      caption: "Dragon (Sketch)"
+      image: GameConcept,
     },
   ];
 

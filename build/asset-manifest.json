@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/art-portfolio/static/css/main.e6e3ac85.css",
-    "main.js": "/art-portfolio/static/js/main.1b607efa.js",
+    "main.js": "/art-portfolio/static/js/main.f5c3aeeb.js",
     "static/media/MeineLiebe.bmp": "/art-portfolio/static/media/MeineLiebe.ff11b4d39da0a5a5b436.bmp",
     "static/media/Guizmurai.bmp": "/art-portfolio/static/media/Guizmurai.8d60a6457a9640e51435.bmp",
-    "static/media/Dragon.bmp": "/art-portfolio/static/media/Dragon.4f7c0e7d137e1f24ae36.bmp",
     "static/media/Dust.bmp": "/art-portfolio/static/media/Dust.cee2f2df8d7c9cf3f3ac.bmp",
+    "static/media/Moonlight.bmp": "/art-portfolio/static/media/Moonlight.bc9def4a211df7c3e101.bmp",
     "static/media/Mustang.bmp": "/art-portfolio/static/media/Mustang.84d59d979070a4269334.bmp",
     "static/media/TheHand.bmp": "/art-portfolio/static/media/TheHand.b57a01ce233491cf11ca.bmp",
     "static/media/Aioria.bmp": "/art-portfolio/static/media/Aioria.b1c5599fef69c079de46.bmp",
+    "static/media/Baphomet.bmp": "/art-portfolio/static/media/Baphomet.f7cf48d456d5f2aec5f1.bmp",
     "static/media/Maximus.bmp": "/art-portfolio/static/media/Maximus.0fbaf962ef3cb898f774.bmp",
     "static/media/Guizmurai.pdf": "/art-portfolio/static/media/Guizmurai.05200d5448bde6afdf8d.pdf",
     "static/media/Aioria.pdf": "/art-portfolio/static/media/Aioria.48f98b0b6bea96b58296.pdf",
@@ -18,13 +19,14 @@
     "static/media/SelfPortrait.pdf": "/art-portfolio/static/media/SelfPortrait.3131d40cbbd6ad52b788.pdf",
     "static/media/Self.jpg": "/art-portfolio/static/media/Self.d517d68632fb04356a23.jpg",
     "static/media/TheHand.pdf": "/art-portfolio/static/media/TheHand.6d1a87debd0b7dbdc121.pdf",
+    "static/media/GameConcept.jpg": "/art-portfolio/static/media/GameConcept.7a68eea56e085c44bb65.jpg",
     "static/media/self.jpeg": "/art-portfolio/static/media/self.b7e85505b7414523e913.jpeg",
     "index.html": "/art-portfolio/index.html",
     "main.e6e3ac85.css.map": "/art-portfolio/static/css/main.e6e3ac85.css.map",
-    "main.1b607efa.js.map": "/art-portfolio/static/js/main.1b607efa.js.map"
+    "main.f5c3aeeb.js.map": "/art-portfolio/static/js/main.f5c3aeeb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6e3ac85.css",
-    "static/js/main.1b607efa.js"
+    "static/js/main.f5c3aeeb.js"
   ]
 }
