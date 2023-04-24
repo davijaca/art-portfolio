@@ -9,14 +9,29 @@ import SelfPortrait from '../../assets/img/Self.jpg';
 import Hand from '../../assets/img/TheHand.bmp';
 import MeineLiebe from '../../assets/img/MeineLiebe.bmp';
 import Moonlight from '../../assets/img/Moonlight.bmp';
-import Baphomet from '../../assets/img/Baphomet.bmp';
-import GameConcept from '../../assets/img/GameConcept.jpg';
+import Demon from '../../assets/img/Demon.jpg';
+import GameConcept1 from '../../assets/img/GameConcept1.jpg';
+import GameConcept2 from '../../assets/img/GameConcept2.jpg';
 
 import './sidebar.css';
 
 
 function PortfolioBlock(props) {
   const data = [
+    {
+      image: Demon,
+      caption: "Demon"
+    },
+    {
+      image: GameConcept1,
+    },
+    {
+      image: GameConcept2,
+    },
+    {
+      image: Moonlight,
+      caption: "Moonlight"
+    },
     {
       image: Mustang,
       caption: "Boss 429",
@@ -25,14 +40,7 @@ function PortfolioBlock(props) {
       image: Guizmo,
       caption: "Guizmurai"
     },
-    {
-      image: Moonlight,
-      caption: "Moonlight"
-    },
-    {
-      image: Baphomet,
-      caption: "Baphomet"
-    },
+
     {
       image: Aioria,
       caption: "Aioria"
@@ -56,9 +64,6 @@ function PortfolioBlock(props) {
     {
       image: MeineLiebe,
       caption: "Meine Liebe (Sketch)"
-    },
-    {
-      image: GameConcept,
     },
   ];
 
